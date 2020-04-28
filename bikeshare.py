@@ -7,7 +7,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 
 
-# This is the first change 
+# This is the first change  
 # This is the second change 
 
 def get_filters():
