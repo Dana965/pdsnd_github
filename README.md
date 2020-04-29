@@ -1,14 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+29.04.2020
 
 ### Project Title
-Replace the Project Title
+Udacity Git Dana965/pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+This project  has the purpose of passin the Udacity course
 
 ### Files used
-Include the files used
+I have used bikeshare.py ( and 3 csv files in the .gitignore)
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
